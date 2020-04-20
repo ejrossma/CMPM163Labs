@@ -1,5 +1,11 @@
 #lab3
 
+Link to Video: https://drive.google.com/file/d/1n2SrXnw7bw-0VoX9wKnUg1qPHD5F1qeV/view?usp=sharing
+
+
+
+Explanations of Cubes: 
+
 First Cube: Based off of the cube that we were given at the top of the lab. I changed the color to be more like clay but made the specular green for the assignment requirements.
 
 Second Cube: I viewed the source code of the material examples from the Three.js website and found one that I really liked. I used meshBasicMaterial, changed the color, and made it so that it was transparent. 

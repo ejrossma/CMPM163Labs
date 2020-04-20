@@ -1,6 +1,3 @@
 # CMPM163Labs
 
-Video of three cubes:
-https://drive.google.com/file/d/1gKaHr00fP3CiDQoLZUYTCspcOBHFGyNV/view?usp=sharing
-
-Screenshots:
+All of my labs for CMPM163, Computer Graphics and Real-Time Rendering, @ UCSC.

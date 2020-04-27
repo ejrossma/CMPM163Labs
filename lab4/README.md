@@ -4,7 +4,9 @@ Link to video of cubes: https://drive.google.com/file/d/16qhlvUwd66I2rSMAgDps3Fa
 
 Answers to Questions:
 a. x = ⌊7u⌋ (the floor of 7u)
+
 b. y = ⌊7 - 7v⌋ (7 minus the floor of 7v)
+
 c. gray
 
 How I made each cube:

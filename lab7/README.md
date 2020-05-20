@@ -2,6 +2,8 @@
 
 Link to video: https://drive.google.com/file/d/1iWYBN-f5kku6sTXEV21o_scirwpF0Hsa/view?usp=sharing
 
+I couldn't find my partner through the discord, so I was unable to ask them the questions about lab7.
+
 How I made my scene:
 
 After finishing the tutorial for the noise mesh distortion on the sphere I decided to use the shape that I made as large rocks in the water around my scene.
